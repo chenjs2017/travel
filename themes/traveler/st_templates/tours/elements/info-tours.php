@@ -9,16 +9,26 @@
  * Created by ShineTheme
  *
  */
-wp_enqueue_script( 'st-qtip' );
+$post_id = get_the_ID();
+$tour_external_booking      = get_post_meta( $post_id, 'st_tour_external_booking', "off" );
+$tour_external_booking_link = get_post_meta( $post_id, 'st_tour_external_booking_link', true );
+$is_external = false;
+
+//jchen, for external tour, don't show calendar and price detail information
+if ( $tour_external_booking == "on" and $tour_external_booking_link !== "" ) {
+	echo  STTour::tour_external_booking_submit();
+	echo st()->load_template('user/html/html_add_wishlist',null,array("title"=>'','class'=>''));
+}else {
+echo STTemplate::message();
+?>
+<?php 
+ wp_enqueue_script( 'st-qtip' );
 //check is booking with modal
 $st_is_booking_modal = apply_filters('st_is_booking_modal',false);
 
 $type_tour = get_post_meta(get_the_ID(),'type_tour',true);
 
-echo STTemplate::message();
-?>
-<?php 
-    
+   
     $tour_show_calendar = st()->get_option('tour_show_calendar', 'on');
     $tour_show_calendar_below = st()->get_option('tour_show_calendar_below', 'off');
     if($tour_show_calendar == 'on' && $tour_show_calendar_below == 'off'):
@@ -236,4 +246,5 @@ if($st_is_booking_modal){?>
         <?php echo st()->load_template('tours/modal_booking');?>
     </div>
 
-<?php }?>
+<?php }
+}//end is external?>
