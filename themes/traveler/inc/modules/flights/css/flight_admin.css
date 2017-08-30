@@ -1,0 +1,10 @@
+.upload-wrapper{
+    margin-bottom: 20px;
+}
+.upload-item img{
+    max-width: 200px;
+}
+.st-location-airport{
+    width: 95%;
+    display: block;
+}
