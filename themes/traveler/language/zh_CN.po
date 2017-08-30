@@ -1,0 +1,2441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Traveler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-30 19:15+0000\n"
+"PO-Revision-Date: 2017-08-30 20:00+0000\n"
+"Last-Translator: jinpai01 <dacheng925@gmail.com>\n"
+"Language-Team: Chinese (China)\n"
+"Language: zh-CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the template
+msgid "Cars Search Result"
+msgstr "租车搜索结果"
+
+#. Name of the template
+#. Name of the template
+msgid "Login Normal"
+msgstr "正常登录"
+
+#. Name of the template
+#. Name of the template
+#: language/english/modun/general.php:27
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Payment Success"
+msgstr ""
+
+#. Name of the template
+msgid "Payment success"
+msgstr ""
+
+#. Name of the template
+#. Name of the template
+msgid "Comming Soon"
+msgstr ""
+
+#. Name of the template
+msgid "TraverPayout Search Result"
+msgstr ""
+
+#. Name of the template
+#. Name of the template
+msgid "Login Full"
+msgstr ""
+
+#. Name of the template
+msgid "Hotel Room Search Result"
+msgstr ""
+
+#. Name of the template
+#. Name of the template
+msgid "Register Form"
+msgstr ""
+
+#. Name of the template
+msgid "Member Packages Checkout"
+msgstr ""
+
+#. Name of the template
+msgid "Confirm Order"
+msgstr ""
+
+#. Name of the template
+msgid "Order Confirmation"
+msgstr ""
+
+#. Name of the template
+msgid "Landing Page"
+msgstr ""
+
+#: st_templates/vc-elements/st-list-activity/loop-list.php:34
+#: language/english/modun/tour.php:25 language/english/modun/user.php:10
+#: language/english/modun/activity.php:51
+msgid "from"
+msgstr ""
+
+#: language/english/modun/tour.php:8 language/english/modun/activity.php:7
+#: language/english/modun/hotel.php:83 language/english/modun/rental.php:18
+#: language/english/modun/car.php:17
+msgid "Filter"
+msgstr "筛选"
+
+#: language/english/modun/tour.php:9 language/english/modun/activity.php:8
+#: language/english/modun/car.php:18
+msgid "Filter By"
+msgstr "筛选"
+
+#: language/english/modun/tour.php:11 language/english/modun/activity.php:10
+#: language/english/modun/car.php:20
+msgid "Sort"
+msgstr ""
+
+#: language/english/modun/tour.php:12 language/english/modun/activity.php:11
+#: language/english/modun/hotel.php:108 language/english/modun/rental.php:30
+#: language/english/modun/car.php:21 language/english/modun/general.php:91
+msgid "Showing"
+msgstr ""
+
+#: language/english/modun/tour.php:13 language/english/modun/activity.php:12
+#: language/english/modun/rental.php:28 language/english/modun/car.php:22
+msgid "Not what you're looking for? "
+msgstr ""
+
+#: language/english/modun/tour.php:14 language/english/modun/activity.php:13
+#: language/english/modun/hotel.php:51 language/english/modun/rental.php:29
+#: language/english/modun/car.php:23
+msgid "Try your search again"
+msgstr ""
+
+#: language/english/modun/tour.php:16
+msgid "Sorry!. Tour Not Found"
+msgstr "很抱歉，没找到包团信息"
+
+#: language/english/modun/tour.php:20 language/english/modun/activity.php:18
+#: language/english/modun/activity.php:56
+#: language/english/modun/user_create_tour.php:21
+#: language/english/modun/user_create_car.php:25
+#: language/english/modun/user_create_car.php:30
+#: language/english/modun/user_create_room.php:32
+#: language/english/modun/user_create_activity.php:29
+#: language/english/modun/car.php:40
+#: language/english/modun/user_create_cruise_cabin.php:18
+#: language/english/modun/user_create_rental.php:24
+msgid "Price"
+msgstr ""
+
+#: language/english/modun/tour.php:21
+#: language/english/modun/user_create_room.php:39
+#: language/english/modun/car.php:52
+#: language/english/modun/user_create_cruise_cabin.php:22
+#: language/english/modun/user_create_rental.php:32
+msgid "Number"
+msgstr ""
+
+#: language/english/modun/tour.php:22 language/english/modun/email.php:13
+#: language/english/modun/email.php:14 language/english/modun/activity.php:19
+#: language/english/modun/car.php:45 language/english/modun/general.php:139
+msgid "Total"
+msgstr ""
+
+#: language/english/modun/tour.php:24 language/english/modun/hotel.php:15
+#: language/english/modun/general.php:131
+msgid "price from"
+msgstr ""
+
+#: language/english/modun/tour.php:27
+msgid "SIMILAR TOUR"
+msgstr "类似包团"
+
+#: language/english/modun/tour.php:28
+msgid "SIMILAR TOUR(S)"
+msgstr "类似包团"
+
+#: language/english/modun/tour.php:30 language/english/modun/user.php:12
+#: language/english/modun/car.php:26 language/english/modun/general.php:115
+#: language/english/modun/vc_element.php:13
+msgid "day"
+msgstr ""
+
+#: language/english/modun/tour.php:33 language/english/modun/user.php:17
+msgid "peoples"
+msgstr ""
+
+#: language/english/modun/tour.php:34 language/english/modun/user.php:16
+msgid "people"
+msgstr ""
+
+#: language/english/modun/tour.php:35 language/english/modun/user.php:27
+#: language/english/modun/user.php:73
+#: language/english/modun/user_create_tour.php:15
+#: language/english/modun/user_create_car.php:22
+#: language/english/modun/user_create_room.php:27
+#: language/english/modun/user_create_cruise.php:18
+#: language/english/modun/user_create_hotel.php:18
+#: language/english/modun/user_create_activity.php:17
+#: language/english/modun/user_create_rental.php:19
+msgid "Location"
+msgstr ""
+
+#: language/english/modun/tour.php:36
+msgid "Rate"
+msgstr ""
+
+#: language/english/modun/tour.php:37 language/english/modun/activity.php:43
+#: language/english/modun/rental.php:16 language/english/modun/car.php:41
+#: language/english/modun/general.php:117
+msgid "Book Now"
+msgstr ""
+
+#: language/english/modun/tour.php:39 language/english/modun/user.php:9
+#: language/english/modun/activity.php:40
+#: language/english/modun/user_create_activity.php:27
+msgid "Duration"
+msgstr ""
+
+#: language/english/modun/tour.php:40
+msgid "Tours or U.S. Zip Code"
+msgstr "包团或者美国邮编"
+
+#: language/english/modun/tour.php:42 language/english/modun/hotel.php:32
+#: language/english/modun/rental.php:13
+msgid "no review"
+msgstr ""
+
+#: language/english/modun/tour.php:43 language/english/modun/user.php:4
+#: language/english/modun/activity.php:48 language/english/modun/rental.php:14
+msgid "1 review"
+msgstr ""
+
+#: language/english/modun/tour.php:44 language/english/modun/user.php:5
+#: language/english/modun/activity.php:49
+msgid "reviews"
+msgstr ""
+
+#: language/english/modun/tour.php:45
+msgid "Tour E-mail"
+msgstr "包团邮箱"
+
+#: language/english/modun/tour.php:46
+msgid "Tour Website"
+msgstr "包团网站"
+
+#: language/english/modun/tour.php:47 language/english/modun/activity.php:57
+#: language/english/modun/car.php:43
+msgid "Not set default layout !"
+msgstr ""
+
+#: language/english/modun/tour.php:48 language/english/modun/general.php:92
+msgid "to "
+msgstr ""
+
+#: language/english/modun/tour.php:49 language/english/modun/user.php:83
+#: language/english/modun/hotel.php:84 language/english/modun/rental.php:49
+msgid "of 5"
+msgstr ""
+
+#: language/english/modun/tour.php:50 language/english/modun/traveler.php:22
+#, php-format
+msgid "You are booking for %s"
+msgstr ""
+
+#: language/english/modun/tour.php:51
+msgid "LAST MINUTE DEALS!"
+msgstr ""
+
+#: language/english/modun/tour.php:52
+msgid "Tour's Program"
+msgstr "包团内容"
+
+#: language/english/modun/tour.php:53
+msgid "none"
+msgstr ""
+
+#: language/english/modun/email.php:8 language/english/modun/general.php:62
+msgid "Booking Information"
+msgstr ""
+
+#: language/english/modun/email.php:9 language/english/modun/general.php:135
+msgid "Item"
+msgstr ""
+
+#: language/english/modun/email.php:10
+msgid "Informtion"
+msgstr ""
+
+#: language/english/modun/email.php:11 language/english/modun/general.php:137
+msgid "Sub Total"
+msgstr ""
+
+#: language/english/modun/email.php:12 language/english/modun/general.php:138
+msgid "Tax"
+msgstr ""
+
+#: language/english/modun/email.php:15
+msgid "Confirmation needed"
+msgstr ""
+
+#: language/english/modun/email.php:16
+msgid "You added an email address to your account"
+msgstr ""
+
+#: language/english/modun/email.php:17
+msgid "Click \"confirm\" to import the bookings you've made with that address"
+msgstr ""
+
+#: language/english/modun/email.php:18
+msgid "Confirm"
+msgstr ""
+
+#: language/english/modun/email.php:19
+msgid "Can't see the button? Try this link:"
+msgstr ""
+
+#: language/english/modun/validation.php:8
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: language/english/modun/validation.php:9
+#, php-format
+msgid "The %s field must have a value."
+msgstr ""
+
+#: language/english/modun/validation.php:10
+#, php-format
+msgid "The %s field must contain a valid email address."
+msgstr ""
+
+#: language/english/modun/validation.php:11
+#, php-format
+msgid "The %s field must contain all valid email addresses."
+msgstr ""
+
+#: language/english/modun/validation.php:12
+#, php-format
+msgid "The %s field must contain a valid URL. Ex \"http://domain.com\""
+msgstr ""
+
+#: language/english/modun/validation.php:13
+#, php-format
+msgid "The %s field must contain a valid IP."
+msgstr ""
+
+#: language/english/modun/validation.php:14
+#, php-format
+msgid "The %s field must be at least %s characters in length."
+msgstr ""
+
+#: language/english/modun/validation.php:15
+#, php-format
+msgid "The %s field can not exceed %s characters in length."
+msgstr ""
+
+#: language/english/modun/validation.php:16
+#, php-format
+msgid "The %s field must be exactly %s characters in length."
+msgstr ""
+
+#: language/english/modun/validation.php:17
+#, php-format
+msgid "The %s field may only contain alphabetical characters."
+msgstr ""
+
+#: language/english/modun/validation.php:18
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters."
+msgstr ""
+
+#: language/english/modun/validation.php:19
+#, php-format
+msgid ""
+"The %s field may only contain alpha-numeric characters, underscores, and "
+"dashes."
+msgstr ""
+
+#: language/english/modun/validation.php:20
+#, php-format
+msgid "The %s field must contain only numbers."
+msgstr ""
+
+#: language/english/modun/validation.php:21
+#, php-format
+msgid "The %s field must contain only numeric characters."
+msgstr ""
+
+#: language/english/modun/validation.php:22
+#, php-format
+msgid "The %s field must contain an integer."
+msgstr ""
+
+#: language/english/modun/validation.php:23
+#, php-format
+msgid "The %s field is not in the correct format."
+msgstr ""
+
+#: language/english/modun/validation.php:24
+#, php-format
+msgid "The %s field does not match the %s field."
+msgstr ""
+
+#: language/english/modun/validation.php:25
+#, php-format
+msgid "The %s field must contain a unique value."
+msgstr ""
+
+#: language/english/modun/validation.php:26
+#, php-format
+msgid "The %s field must contain only positive numbers."
+msgstr ""
+
+#: language/english/modun/validation.php:27
+#, php-format
+msgid "The %s field must contain a number greater than zero."
+msgstr ""
+
+#: language/english/modun/validation.php:28
+#, php-format
+msgid "The %s field must contain a decimal number."
+msgstr ""
+
+#: language/english/modun/validation.php:29
+#, php-format
+msgid "The %s field must contain a number less than %s."
+msgstr ""
+
+#: language/english/modun/validation.php:30
+#, php-format
+msgid "The %s field must contain a number greater than %s."
+msgstr ""
+
+#: language/english/modun/validation.php:31
+#, php-format
+msgid "The %s field positive digit"
+msgstr ""
+
+#: language/english/modun/traveler.php:8
+msgid "More"
+msgstr ""
+
+#: language/english/modun/traveler.php:9 language/english/modun/hotel.php:94
+#: language/english/modun/rental.php:7 language/english/modun/rental.php:12
+msgid "Less"
+msgstr ""
+
+#: language/english/modun/traveler.php:10
+#, php-format
+msgid "%d review"
+msgstr ""
+
+#: language/english/modun/traveler.php:11 language/english/modun/hotel.php:86
+#, php-format
+msgid "%d reviews"
+msgstr ""
+
+#: language/english/modun/traveler.php:12
+#, php-format
+msgid "%d to %d"
+msgstr ""
+
+#: language/english/modun/traveler.php:13
+msgid "Name*"
+msgstr ""
+
+#: language/english/modun/traveler.php:14 language/english/modun/general.php:42
+msgid "Leave a Review"
+msgstr ""
+
+#: language/english/modun/traveler.php:15
+msgid "Pingback:"
+msgstr ""
+
+#: language/english/modun/traveler.php:16 language/english/modun/user.php:55
+msgid "Edit"
+msgstr ""
+
+#: language/english/modun/traveler.php:17 language/english/modun/general.php:86
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: language/english/modun/traveler.php:18
+msgid " ago"
+msgstr ""
+
+#: language/english/modun/traveler.php:19
+msgid "1 comment"
+msgstr ""
+
+#: language/english/modun/traveler.php:20
+msgid "no comment"
+msgstr ""
+
+#: language/english/modun/traveler.php:21
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: language/english/modun/traveler.php:23
+msgid "Photos"
+msgstr ""
+
+#: language/english/modun/traveler.php:24
+msgid "On the Map"
+msgstr ""
+
+#: language/english/modun/traveler.php:25
+#: language/english/modun/user_create_tour.php:10
+#: language/english/modun/user_create_car.php:15
+#: language/english/modun/user_create_cruise.php:15
+#: language/english/modun/user_create_hotel.php:15
+#: language/english/modun/user_create_activity.php:12
+#: language/english/modun/user_create_rental.php:14
+msgid "Video"
+msgstr ""
+
+#: language/english/modun/traveler.php:26
+msgid "Owner description"
+msgstr ""
+
+#: language/english/modun/traveler.php:27
+msgid "Activity Reviews"
+msgstr ""
+
+#: language/english/modun/traveler.php:28
+msgid "to"
+msgstr ""
+
+#: language/english/modun/traveler.php:29
+msgid "Paypal"
+msgstr ""
+
+#: language/english/modun/traveler.php:30 language/english/modun/hotel.php:72
+msgid "Captcha"
+msgstr ""
+
+#: language/english/modun/traveler.php:31
+#, php-format
+msgid "Now %d user(s) seeing this %s"
+msgstr ""
+
+#: language/english/modun/traveler.php:32
+#, php-format
+msgid "Most recent booking for this %s was %s"
+msgstr ""
+
+#: language/english/modun/user.php:2
+msgid "Remove"
+msgstr ""
+
+#: language/english/modun/user.php:3
+msgid "No reviews"
+msgstr ""
+
+#: language/english/modun/user.php:6 language/english/modun/activity.php:52
+msgid "of"
+msgstr ""
+
+#: language/english/modun/user.php:7 language/english/modun/activity.php:41
+msgid "Availability"
+msgstr ""
+
+#: language/english/modun/user.php:8
+#: language/english/modun/user_create_activity.php:26
+msgid "Activity Timing"
+msgstr ""
+
+#: language/english/modun/user.php:11
+msgid "activity"
+msgstr ""
+
+#: language/english/modun/user.php:14 language/english/modun/hotel.php:10
+#: language/english/modun/rental.php:17 language/english/modun/general.php:130
+#: language/english/modun/vc_element.php:12
+msgid "night"
+msgstr ""
+
+#: language/english/modun/user.php:18
+msgid "Duration Days "
+msgstr ""
+
+#: language/english/modun/user.php:20 language/english/modun/hotel.php:90
+msgid "Book now"
+msgstr ""
+
+#: language/english/modun/user.php:21
+msgid "average"
+msgstr ""
+
+#: language/english/modun/user.php:22
+msgid "Add to Trip"
+msgstr ""
+
+#: language/english/modun/user.php:23 language/english/modun/vc_element.php:14
+msgid "person"
+msgstr ""
+
+#: language/english/modun/user.php:25
+msgid "Type"
+msgstr ""
+
+#: language/english/modun/user.php:26
+#: language/english/modun/user_create_tour.php:3
+#: language/english/modun/user_create_tour.php:31
+#: language/english/modun/user_create_car.php:4
+#: language/english/modun/user_create_car.php:29
+#: language/english/modun/user_create_room.php:4
+#: language/english/modun/user_create_room.php:38
+#: language/english/modun/user_create_cruise.php:4
+#: language/english/modun/user_create_cruise.php:25
+#: language/english/modun/user_create_hotel.php:4
+#: language/english/modun/user_create_activity.php:4
+#: language/english/modun/user_create_cruise_cabin.php:3
+#: language/english/modun/user_create_cruise_cabin.php:21
+#: language/english/modun/user_create_rental.php:4
+#: language/english/modun/user_create_rental.php:31
+msgid "Title"
+msgstr ""
+
+#: language/english/modun/user.php:28
+msgid "Order Date"
+msgstr ""
+
+#: language/english/modun/user.php:29
+msgid "Execution Time"
+msgstr ""
+
+#: language/english/modun/user.php:30
+msgid "Cost"
+msgstr ""
+
+#: language/english/modun/user.php:31
+msgid "No Booking History"
+msgstr ""
+
+#: language/english/modun/user.php:32 language/english/modun/general.php:108
+msgid "Load More"
+msgstr ""
+
+#: language/english/modun/user.php:33
+msgid "Member Since"
+msgstr ""
+
+#: language/english/modun/user.php:34
+msgid "Settings"
+msgstr ""
+
+#: language/english/modun/user.php:35
+msgid "My Travel Photos"
+msgstr ""
+
+#: language/english/modun/user.php:36
+msgid "Booking History"
+msgstr ""
+
+#: language/english/modun/user.php:37
+msgid "Wishlist"
+msgstr ""
+
+#: language/english/modun/user.php:38
+#: language/english/modun/user_create_hotel.php:3
+msgid "Add new hotel"
+msgstr ""
+
+#: language/english/modun/user.php:39
+#: language/english/modun/user_create_room.php:3
+msgid "Add new room"
+msgstr ""
+
+#: language/english/modun/user.php:40
+#: language/english/modun/user_create_tour.php:2
+msgid "Add new tour"
+msgstr "添加一个包团"
+
+#: language/english/modun/user.php:41
+#: language/english/modun/user_create_activity.php:3
+msgid "Add new activity"
+msgstr ""
+
+#: language/english/modun/user.php:42
+#: language/english/modun/user_create_car.php:3
+msgid "Add new car"
+msgstr ""
+
+#: language/english/modun/user.php:43
+#: language/english/modun/user_create_rental.php:3
+msgid "Add new rental"
+msgstr ""
+
+#: language/english/modun/user.php:44
+#: language/english/modun/user_create_cruise.php:3
+msgid "Create Cruise"
+msgstr ""
+
+#: language/english/modun/user.php:45
+#: language/english/modun/user_create_cruise_cabin.php:2
+msgid "Create Cruise Cabin"
+msgstr ""
+
+#: language/english/modun/user.php:46 language/english/modun/user.php:102
+msgid "My Hotel"
+msgstr ""
+
+#: language/english/modun/user.php:47 language/english/modun/user.php:104
+msgid "My Room"
+msgstr ""
+
+#: language/english/modun/user.php:48
+msgid "My Tour"
+msgstr "我的包团"
+
+#: language/english/modun/user.php:49 language/english/modun/user.php:98
+msgid "My Activities"
+msgstr ""
+
+#: language/english/modun/user.php:50
+msgid "My Car"
+msgstr ""
+
+#: language/english/modun/user.php:51 language/english/modun/user.php:103
+msgid "My Rental"
+msgstr ""
+
+#: language/english/modun/user.php:52 language/english/modun/user.php:100
+msgid "My Cruise"
+msgstr ""
+
+#: language/english/modun/user.php:53 language/english/modun/user.php:101
+msgid "My Cruise Cabin"
+msgstr ""
+
+#: language/english/modun/user.php:54
+msgid "User Info"
+msgstr ""
+
+#: language/english/modun/user.php:56
+msgid "Status"
+msgstr ""
+
+#: language/english/modun/user.php:58
+msgid "Personal Information"
+msgstr ""
+
+#: language/english/modun/user.php:59
+msgid "Username"
+msgstr ""
+
+#: language/english/modun/user.php:60
+msgid "E-mail"
+msgstr ""
+
+#: language/english/modun/user.php:61
+msgid "Phone Number"
+msgstr ""
+
+#: language/english/modun/user.php:62
+msgid "Home Airport"
+msgstr ""
+
+#: language/english/modun/user.php:63
+#: language/english/modun/user_create_tour.php:17
+#: language/english/modun/user_create_car.php:24
+#: language/english/modun/user_create_room.php:28
+#: language/english/modun/user_create_cruise.php:19
+#: language/english/modun/user_create_hotel.php:19
+#: language/english/modun/user_create_activity.php:19
+#: language/english/modun/user_create_rental.php:20
+msgid "Address"
+msgstr ""
+
+#: language/english/modun/user.php:64 language/english/modun/hotel.php:66
+#: language/english/modun/general.php:146
+msgid "City"
+msgstr ""
+
+#: language/english/modun/user.php:65 language/english/modun/hotel.php:68
+#: language/english/modun/general.php:147
+msgid "State/Province/Region"
+msgstr ""
+
+#: language/english/modun/user.php:66 language/english/modun/hotel.php:69
+#: language/english/modun/general.php:148
+msgid "ZIP code/Postal code"
+msgstr ""
+
+#: language/english/modun/user.php:67 language/english/modun/hotel.php:70
+#: language/english/modun/general.php:149
+msgid "Country"
+msgstr ""
+
+#: language/english/modun/user.php:68
+msgid "Save Changes"
+msgstr ""
+
+#: language/english/modun/user.php:69
+msgid "Change Password"
+msgstr ""
+
+#: language/english/modun/user.php:70
+msgid "Current Password"
+msgstr ""
+
+#: language/english/modun/user.php:71
+msgid "New Password"
+msgstr ""
+
+#: language/english/modun/user.php:72
+msgid "New Password Again"
+msgstr ""
+
+#: language/english/modun/user.php:74 language/english/modun/general.php:126
+msgid "Delete"
+msgstr ""
+
+#: language/english/modun/user.php:75
+msgid "Avatar"
+msgstr ""
+
+#: language/english/modun/user.php:76
+msgid "Upload"
+msgstr ""
+
+#: language/english/modun/user.php:77
+msgid "Update successfully"
+msgstr ""
+
+#: language/english/modun/user.php:78
+msgid "Action"
+msgstr ""
+
+#: language/english/modun/user.php:79
+msgid "Write Review"
+msgstr ""
+
+#: language/english/modun/user.php:80
+#, php-format
+msgid "Write Review For: %s"
+msgstr ""
+
+#: language/english/modun/user.php:81
+msgid "Total Traveled"
+msgstr ""
+
+#: language/english/modun/user.php:82
+msgid "Overview"
+msgstr ""
+
+#: language/english/modun/user.php:84 language/english/modun/hotel.php:7
+#: language/english/modun/cruise.php:3
+msgid "Adults Occupancy"
+msgstr ""
+
+#: language/english/modun/user.php:85 language/english/modun/hotel.php:8
+#: language/english/modun/cruise.php:4
+msgid "Childs"
+msgstr ""
+
+#: language/english/modun/user.php:86 language/english/modun/hotel.php:6
+#: language/english/modun/cruise.php:5
+msgid "Beds"
+msgstr ""
+
+#: language/english/modun/user.php:87 language/english/modun/hotel.php:9
+#: language/english/modun/user_create_room.php:22
+#: language/english/modun/cruise.php:6
+msgid "Room footage (square feet)"
+msgstr ""
+
+#: language/english/modun/user.php:89
+msgid "No Activity"
+msgstr ""
+
+#: language/english/modun/user.php:90
+msgid "No Cars"
+msgstr ""
+
+#: language/english/modun/user.php:91
+msgid "No Cruise"
+msgstr ""
+
+#: language/english/modun/user.php:92
+msgid "No Cruise Cabin"
+msgstr ""
+
+#: language/english/modun/user.php:93
+msgid "No Hotel"
+msgstr ""
+
+#: language/english/modun/user.php:94
+msgid "No Rental"
+msgstr ""
+
+#: language/english/modun/user.php:95
+msgid "No Room"
+msgstr ""
+
+#: language/english/modun/user.php:96
+msgid "No Tours"
+msgstr "没有包团"
+
+#: language/english/modun/user.php:99
+msgid "My Cars"
+msgstr ""
+
+#: language/english/modun/user.php:105
+msgid "My Tours"
+msgstr "我的包团"
+
+#: language/english/modun/activity.php:2
+msgid "Activity"
+msgstr ""
+
+#: language/english/modun/activity.php:3
+msgid "activities"
+msgstr ""
+
+#: language/english/modun/activity.php:5
+msgid "Search for Activity"
+msgstr "查找活动"
+
+#: language/english/modun/activity.php:15
+msgid "Sorry!. Activity Not Found"
+msgstr ""
+
+#: language/english/modun/activity.php:16
+msgid "Event"
+msgstr ""
+
+#: language/english/modun/activity.php:17
+msgid "Guests"
+msgstr ""
+
+#: language/english/modun/activity.php:21
+msgid "Clean"
+msgstr ""
+
+#: language/english/modun/activity.php:22 language/english/modun/rental.php:32
+msgid "Good"
+msgstr ""
+
+#: language/english/modun/activity.php:23
+msgid "Very good"
+msgstr ""
+
+#: language/english/modun/activity.php:24
+msgid "Superior"
+msgstr ""
+
+#: language/english/modun/activity.php:25
+msgid "Exceptional"
+msgstr ""
+
+#: language/english/modun/activity.php:26 language/english/modun/hotel.php:30
+#: language/english/modun/general.php:128
+msgid "of guests recommend"
+msgstr ""
+
+#: language/english/modun/activity.php:28 language/english/modun/hotel.php:16
+#: language/english/modun/rental.php:36
+msgid "Traveler rating"
+msgstr ""
+
+#: language/english/modun/activity.php:29 language/english/modun/rental.php:37
+msgid "Excellent"
+msgstr ""
+
+#: language/english/modun/activity.php:30 language/english/modun/hotel.php:19
+#: language/english/modun/rental.php:38
+msgid "Average"
+msgstr ""
+
+#: language/english/modun/activity.php:31 language/english/modun/hotel.php:20
+#: language/english/modun/rental.php:39
+msgid "Poor"
+msgstr ""
+
+#: language/english/modun/activity.php:32 language/english/modun/hotel.php:21
+#: language/english/modun/rental.php:40
+msgid "Terrible"
+msgstr ""
+
+#: language/english/modun/activity.php:33 language/english/modun/rental.php:41
+#: language/english/modun/general.php:94
+msgid "Write a Review"
+msgstr ""
+
+#: language/english/modun/activity.php:34 language/english/modun/hotel.php:24
+#: language/english/modun/rental.php:42
+msgid "Summary"
+msgstr ""
+
+#: language/english/modun/activity.php:36
+msgid "Activity Near"
+msgstr ""
+
+#: language/english/modun/activity.php:37
+msgid "Activities Near"
+msgstr ""
+
+#: language/english/modun/activity.php:39
+msgid "Activity Time"
+msgstr ""
+
+#: language/english/modun/activity.php:42
+#: language/english/modun/user_create_activity.php:28
+msgid "Venue Facilities"
+msgstr ""
+
+#: language/english/modun/activity.php:44
+#: language/english/modun/user_create_activity.php:31
+msgid "Best Price Guarantee"
+msgstr ""
+
+#: language/english/modun/activity.php:46
+msgid "Activity or U.S. Zip Code"
+msgstr ""
+
+#: language/english/modun/activity.php:54
+msgid "Owner E-mail"
+msgstr ""
+
+#: language/english/modun/activity.php:55
+msgid "Owner Website"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:4
+#: language/english/modun/user_create_car.php:5
+#: language/english/modun/user_create_room.php:5
+#: language/english/modun/user_create_cruise.php:5
+#: language/english/modun/user_create_hotel.php:5
+#: language/english/modun/user_create_activity.php:5
+#: language/english/modun/user_create_cruise_cabin.php:4
+#: language/english/modun/user_create_rental.php:5
+msgid "Content"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:5
+#: language/english/modun/user_create_tour.php:32
+#: language/english/modun/user_create_car.php:6
+#: language/english/modun/user_create_room.php:6
+#: language/english/modun/user_create_cruise.php:6
+#: language/english/modun/user_create_cruise.php:26
+#: language/english/modun/user_create_hotel.php:6
+#: language/english/modun/user_create_activity.php:6
+#: language/english/modun/user_create_cruise_cabin.php:5
+#: language/english/modun/user_create_rental.php:6
+msgid "Description"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:6
+#: language/english/modun/user_create_car.php:7
+#: language/english/modun/user_create_room.php:13
+#: language/english/modun/user_create_cruise.php:7
+#: language/english/modun/user_create_hotel.php:8
+#: language/english/modun/user_create_activity.php:7
+#: language/english/modun/user_create_cruise_cabin.php:6
+#: language/english/modun/user_create_rental.php:8
+msgid "Featured Image"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:7
+#: language/english/modun/user_create_activity.php:8
+msgid "General"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:8
+msgid "Tour Type"
+msgstr "包团类型"
+
+#: language/english/modun/user_create_tour.php:9
+#: language/english/modun/user_create_car.php:19
+#: language/english/modun/hotel.php:58
+#: language/english/modun/user_create_activity.php:9
+#: language/english/modun/car.php:51 language/english/modun/general.php:58
+msgid "Email"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:11
+#: language/english/modun/user_create_activity.php:13
+msgid "Gallery Style"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:12
+#: language/english/modun/user_create_activity.php:14
+msgid "Grid"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:13
+#: language/english/modun/user_create_activity.php:15
+msgid "Slider"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:14
+#: language/english/modun/user_create_room.php:35
+#: language/english/modun/user_create_cruise.php:23
+#: language/english/modun/user_create_hotel.php:24
+#: language/english/modun/user_create_activity.php:16
+#: language/english/modun/user_create_rental.php:28
+msgid "Gallery"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:16
+#: language/english/modun/user_create_car.php:23
+#: language/english/modun/user_create_activity.php:18
+msgid "Location search"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:18
+#: language/english/modun/user_create_room.php:29
+#: language/english/modun/user_create_cruise.php:20
+#: language/english/modun/user_create_hotel.php:20
+#: language/english/modun/user_create_activity.php:20
+#: language/english/modun/user_create_rental.php:21
+msgid "Latitude"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:19
+#: language/english/modun/user_create_room.php:30
+#: language/english/modun/user_create_cruise.php:21
+#: language/english/modun/user_create_hotel.php:21
+#: language/english/modun/user_create_activity.php:21
+#: language/english/modun/user_create_rental.php:22
+msgid "Longitude"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:20
+#: language/english/modun/user_create_room.php:31
+#: language/english/modun/user_create_cruise.php:22
+#: language/english/modun/user_create_hotel.php:22
+#: language/english/modun/user_create_activity.php:22
+#: language/english/modun/user_create_rental.php:23
+msgid "Map Zoom"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:22
+#: language/english/modun/user_create_car.php:26
+#: language/english/modun/user_create_room.php:33
+#: language/english/modun/user_create_activity.php:30
+#: language/english/modun/user_create_cruise_cabin.php:19
+#: language/english/modun/user_create_rental.php:25
+msgid "Discount rate"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:23
+msgid "Tour external booking URL"
+msgstr "外部包团信息链接"
+
+#: language/english/modun/user_create_tour.php:25
+#: language/english/modun/user_create_activity.php:23
+msgid "Info"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:26
+msgid "Duration (days)"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:28
+msgid "Tours program"
+msgstr "包团项目"
+
+#: language/english/modun/user_create_tour.php:29
+#: language/english/modun/user_create_cruise.php:17
+msgid "Add Program"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:30
+#: language/english/modun/user_create_car.php:28
+#: language/english/modun/user_create_room.php:36
+#: language/english/modun/user_create_cruise.php:24
+#: language/english/modun/user_create_hotel.php:25
+#: language/english/modun/user_create_activity.php:35
+#: language/english/modun/user_create_cruise_cabin.php:20
+#: language/english/modun/user_create_rental.php:29
+msgid "SUBMIT"
+msgstr ""
+
+#: language/english/modun/user_create_tour.php:33
+#: language/english/modun/user_create_car.php:31
+#: language/english/modun/user_create_room.php:41
+#: language/english/modun/user_create_cruise.php:27
+#: language/english/modun/user_create_cruise_cabin.php:24
+#: language/english/modun/user_create_rental.php:34
+msgid "Del"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:8
+msgid "Car Details"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:9
+msgid "Car Categories"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:10
+#: language/english/modun/car.php:11
+msgid "Pickup Features"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:11
+msgid "Equipment Price List"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:12
+msgid "Add Equipment"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:13
+#: language/english/modun/user_create_cruise_cabin.php:16
+#: language/english/modun/user_create_rental.php:15
+msgid "Features"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:14
+#: language/english/modun/user_create_cruise_cabin.php:17
+#: language/english/modun/user_create_rental.php:16
+msgid "Add Features"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:16
+msgid "Car Contact"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:17
+#: language/english/modun/user_create_hotel.php:23
+msgid "Logo"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:18
+msgid "Name"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:20
+#: language/english/modun/hotel.php:60
+#: language/english/modun/user_create_activity.php:10
+#: language/english/modun/car.php:50 language/english/modun/general.php:143
+msgid "Phone"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:21
+#: language/english/modun/car.php:49
+msgid "About"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:27
+msgid "Car external booking URL"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:32
+#: language/english/modun/user_create_room.php:9
+#: language/english/modun/user_create_cruise.php:9
+#: language/english/modun/user_create_hotel.php:10
+#: language/english/modun/user_create_cruise_cabin.php:9
+#: language/english/modun/user_create_rental.php:10
+msgid "Amenities"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:33
+msgid "Attributes Info"
+msgstr ""
+
+#: language/english/modun/user_create_car.php:34
+msgid "No data"
+msgstr ""
+
+#: language/english/modun/hotel.php:3
+#: language/english/modun/user_create_room.php:10
+msgid "Hotel"
+msgstr ""
+
+#: language/english/modun/hotel.php:4
+msgid "hotels"
+msgstr ""
+
+#: language/english/modun/hotel.php:5
+msgid "We Accepted There Cards"
+msgstr ""
+
+#: language/english/modun/hotel.php:11
+msgid "Book"
+msgstr ""
+
+#: language/english/modun/hotel.php:12
+msgid "Sorry! No available rooms found"
+msgstr ""
+
+#: language/english/modun/hotel.php:13
+msgid "Hotels Near"
+msgstr ""
+
+#: language/english/modun/hotel.php:14
+msgid "Hotel Near"
+msgstr ""
+
+#: language/english/modun/hotel.php:18 language/english/modun/rental.php:33
+#: language/english/modun/general.php:129
+msgid "Very Good"
+msgstr ""
+
+#: language/english/modun/hotel.php:23
+msgid "Write a review"
+msgstr ""
+
+#: language/english/modun/hotel.php:26 language/english/modun/rental.php:31
+msgid "Pleasant"
+msgstr ""
+
+#: language/english/modun/hotel.php:27 language/english/modun/rental.php:34
+msgid "Wonderful"
+msgstr ""
+
+#: language/english/modun/hotel.php:29
+msgid "of 5 <small class=\"text-smaller\">guest rating</small>"
+msgstr ""
+
+#: language/english/modun/hotel.php:33 language/english/modun/rental.php:35
+msgid "based on 1 review"
+msgstr ""
+
+#: language/english/modun/hotel.php:34
+msgid "based on % reviews"
+msgstr ""
+
+#: language/english/modun/hotel.php:36 language/english/modun/rental.php:46
+msgid "Check in"
+msgstr ""
+
+#: language/english/modun/hotel.php:37 language/english/modun/rental.php:47
+msgid "Check out"
+msgstr ""
+
+#: language/english/modun/hotel.php:38
+msgid "Adults"
+msgstr ""
+
+#: language/english/modun/hotel.php:39 language/english/modun/rental.php:48
+msgid "Children"
+msgstr ""
+
+#: language/english/modun/hotel.php:41
+msgid "-- Select --"
+msgstr ""
+
+#: language/english/modun/hotel.php:43
+msgid "Room(s)"
+msgstr ""
+
+#: language/english/modun/hotel.php:44
+#: language/english/modun/user_create_room.php:11
+#: language/english/modun/user_create_hotel.php:17
+#: language/english/modun/user_create_cruise_cabin.php:11
+#: language/english/modun/user_create_rental.php:18
+msgid "Search"
+msgstr ""
+
+#: language/english/modun/hotel.php:45
+msgid "Clear"
+msgstr ""
+
+#: language/english/modun/hotel.php:47 language/english/modun/hotel.php:104
+msgid "Host Name"
+msgstr ""
+
+#: language/english/modun/hotel.php:48
+msgid "Ages of Children"
+msgstr ""
+
+#: language/english/modun/hotel.php:50
+msgid "Not what you're looking for?"
+msgstr ""
+
+#: language/english/modun/hotel.php:53 language/english/modun/general.php:141
+msgid "First Name"
+msgstr ""
+
+#: language/english/modun/hotel.php:54 language/english/modun/general.php:142
+msgid "Last Name"
+msgstr ""
+
+#: language/english/modun/hotel.php:56 language/english/modun/general.php:16
+msgid "OR"
+msgstr ""
+
+#: language/english/modun/hotel.php:59
+msgid "email@domain.com"
+msgstr ""
+
+#: language/english/modun/hotel.php:61
+msgid "Your Phone"
+msgstr ""
+
+#: language/english/modun/hotel.php:62 language/english/modun/general.php:144
+msgid "Address Line 1"
+msgstr ""
+
+#: language/english/modun/hotel.php:63 language/english/modun/general.php:145
+msgid "Address Line 2"
+msgstr ""
+
+#: language/english/modun/hotel.php:64
+msgid "Your Address Line 1"
+msgstr ""
+
+#: language/english/modun/hotel.php:65
+msgid "Your Address Line 2"
+msgstr ""
+
+#: language/english/modun/hotel.php:67
+msgid "Your City"
+msgstr ""
+
+#: language/english/modun/hotel.php:71 language/english/modun/general.php:150
+msgid "Special Requirements"
+msgstr ""
+
+#: language/english/modun/hotel.php:73 language/english/modun/general.php:11
+msgid "Create Traveler account"
+msgstr ""
+
+#: language/english/modun/hotel.php:74
+#, php-format
+msgid "I have read and accept the %s"
+msgstr ""
+
+#: language/english/modun/hotel.php:75 language/english/modun/general.php:14
+msgid "terms and conditions"
+msgstr ""
+
+#: language/english/modun/hotel.php:76
+msgid "Sorry!. Hotel Not Found"
+msgstr ""
+
+#: language/english/modun/hotel.php:77
+msgid "Booking for 1 night"
+msgstr ""
+
+#: language/english/modun/hotel.php:78
+#, php-format
+msgid "Booking for %d nights"
+msgstr ""
+
+#: language/english/modun/hotel.php:79
+#, php-format
+msgid "%d Nights"
+msgstr ""
+
+#: language/english/modun/hotel.php:80
+msgid "1 Night"
+msgstr ""
+
+#: language/english/modun/hotel.php:81
+msgid "per night"
+msgstr ""
+
+#: language/english/modun/hotel.php:82
+msgid "Room"
+msgstr ""
+
+#: language/english/modun/hotel.php:87
+#, php-format
+msgid "%d star"
+msgstr ""
+
+#: language/english/modun/hotel.php:89
+msgid "Lastest booking"
+msgstr ""
+
+#: language/english/modun/hotel.php:91
+msgid "avg/night"
+msgstr ""
+
+#: language/english/modun/hotel.php:92
+msgid "Search for Hotels"
+msgstr ""
+
+#: language/english/modun/hotel.php:93 language/english/modun/rental.php:6
+#: language/english/modun/rental.php:11
+msgid "Advanced Search"
+msgstr "高级搜索"
+
+#: language/english/modun/hotel.php:96
+msgid "Share"
+msgstr ""
+
+#: language/english/modun/hotel.php:97
+msgid "Available Rooms"
+msgstr ""
+
+#: language/english/modun/hotel.php:98
+msgid "About Hotel"
+msgstr ""
+
+#: language/english/modun/hotel.php:99
+msgid "Hotel Reviews"
+msgstr ""
+
+#: language/english/modun/hotel.php:100
+msgid "Hotel E-mail"
+msgstr ""
+
+#: language/english/modun/hotel.php:101
+#: language/english/modun/user_create_hotel.php:12
+msgid "Hotel Website"
+msgstr ""
+
+#: language/english/modun/hotel.php:102
+msgid "( Age 18+ )"
+msgstr ""
+
+#: language/english/modun/hotel.php:106
+msgid "City Name or Zip Code"
+msgstr ""
+
+#: language/english/modun/hotel.php:109
+msgid "Room Information"
+msgstr ""
+
+#: language/english/modun/hotel.php:110
+#, php-format
+msgid "Room %d"
+msgstr ""
+
+#: language/english/modun/user_create_room.php:8
+msgid "Room Type"
+msgstr ""
+
+#: language/english/modun/user_create_room.php:14
+msgid "Number of Rooms"
+msgstr ""
+
+#: language/english/modun/user_create_room.php:15
+msgid "Price Per night"
+msgstr ""
+
+#: language/english/modun/user_create_room.php:16
+msgid "Room external booking "
+msgstr ""
+
+#: language/english/modun/user_create_room.php:18
+msgid "Room Info"
+msgstr ""
+
+#: language/english/modun/user_create_room.php:19
+msgid "Number of Adults"
+msgstr ""
+
+#: language/english/modun/user_create_room.php:20
+msgid "Number of Children"
+msgstr ""
+
+#: language/english/modun/user_create_room.php:21
+msgid "Number of Beds"
+msgstr ""
+
+#: language/english/modun/user_create_room.php:40
+#: language/english/modun/user_create_cruise_cabin.php:23
+#: language/english/modun/user_create_rental.php:33
+msgid "Icon"
+msgstr ""
+
+#: language/english/modun/user_create_cruise.php:8
+msgid "cruise Detail"
+msgstr ""
+
+#: language/english/modun/user_create_cruise.php:10
+msgid "Number of children stay free"
+msgstr ""
+
+#: language/english/modun/user_create_cruise.php:11
+msgid "Cruise Email"
+msgstr ""
+
+#: language/english/modun/user_create_cruise.php:12
+msgid "Cruise Website"
+msgstr ""
+
+#: language/english/modun/user_create_cruise.php:13
+msgid "Cruise Phone"
+msgstr ""
+
+#: language/english/modun/user_create_cruise.php:14
+#: language/english/modun/user_create_hotel.php:14
+msgid "Fax Number"
+msgstr ""
+
+#: language/english/modun/user_create_cruise.php:16
+msgid "Programes"
+msgstr ""
+
+#: language/english/modun/cruise.php:2
+#: language/english/modun/user_create_cruise_cabin.php:10
+msgid "Cruise"
+msgstr ""
+
+#: language/english/modun/user_create_hotel.php:9
+msgid "Hotel Details"
+msgstr ""
+
+#: language/english/modun/user_create_hotel.php:11
+msgid "Hotel Email"
+msgstr ""
+
+#: language/english/modun/user_create_hotel.php:13
+msgid "Hotel Phone"
+msgstr ""
+
+#: language/english/modun/user_create_activity.php:11
+msgid "Website"
+msgstr ""
+
+#: language/english/modun/user_create_activity.php:24
+msgid "Start date"
+msgstr ""
+
+#: language/english/modun/user_create_activity.php:25
+msgid "End date"
+msgstr ""
+
+#: language/english/modun/user_create_activity.php:32
+msgid "Best Price Guarantee Text"
+msgstr ""
+
+#: language/english/modun/user_create_activity.php:33
+msgid "Activity External booking URL"
+msgstr ""
+
+#: language/english/modun/user_create_activity.php:34
+msgid "On-Off"
+msgstr ""
+
+#: language/english/modun/rental.php:2
+msgid "Rental"
+msgstr ""
+
+#: language/english/modun/rental.php:3
+msgid "rentals"
+msgstr ""
+
+#: language/english/modun/rental.php:5
+msgid "Search for rental"
+msgstr ""
+
+#: language/english/modun/rental.php:8
+msgid "Property Description"
+msgstr ""
+
+#: language/english/modun/rental.php:9
+msgid "Property Review"
+msgstr ""
+
+#: language/english/modun/rental.php:10
+msgid "Search for Vacation Rentals"
+msgstr ""
+
+#: language/english/modun/rental.php:15
+#, php-format
+msgid " %d reviews"
+msgstr ""
+
+#: language/english/modun/rental.php:19
+msgid "Filter By:"
+msgstr ""
+
+#: language/english/modun/rental.php:20
+#, php-format
+msgid "Booking for %d "
+msgstr ""
+
+#: language/english/modun/rental.php:21
+msgid "nights"
+msgstr ""
+
+#: language/english/modun/rental.php:22
+msgid "Property"
+msgstr ""
+
+#: language/english/modun/rental.php:23
+#, php-format
+msgid "%d adult"
+msgstr ""
+
+#: language/english/modun/rental.php:24
+#, php-format
+msgid "%d adults"
+msgstr ""
+
+#: language/english/modun/rental.php:25
+#, php-format
+msgid "%d child"
+msgstr ""
+
+#: language/english/modun/rental.php:26
+#, php-format
+msgid "%d children"
+msgstr ""
+
+#: language/english/modun/rental.php:27
+msgid "per day"
+msgstr ""
+
+#: language/english/modun/rental.php:43
+#, php-format
+msgid "Properties Near %s"
+msgstr ""
+
+#: language/english/modun/rental.php:44
+msgid "Agent E-mail"
+msgstr ""
+
+#: language/english/modun/rental.php:45
+msgid "Agent Website"
+msgstr ""
+
+#: language/english/modun/rental.php:50
+msgid "Adult"
+msgstr ""
+
+#: language/english/modun/rental.php:51
+msgid "Check-in and Check-out are required"
+msgstr ""
+
+#: language/english/modun/rental.php:52
+#, php-format
+msgid "%d nights"
+msgstr ""
+
+#: language/english/modun/rental.php:53
+msgid "1 night"
+msgstr ""
+
+#: language/english/modun/car.php:2
+msgid "Car"
+msgstr ""
+
+#: language/english/modun/car.php:3
+msgid "cars"
+msgstr ""
+
+#: language/english/modun/car.php:5 language/english/modun/car.php:15
+msgid "Search for Cars"
+msgstr ""
+
+#: language/english/modun/car.php:6
+msgid "Change for Cars"
+msgstr ""
+
+#: language/english/modun/car.php:7
+msgid "Change Location &amp; Date"
+msgstr ""
+
+#: language/english/modun/car.php:12
+msgid "Search Pickup Features"
+msgstr ""
+
+#: language/english/modun/car.php:28
+msgid "Car for"
+msgstr ""
+
+#: language/english/modun/car.php:29
+msgid "Due at pick-up"
+msgstr ""
+
+#: language/english/modun/car.php:30
+msgid "Passengers"
+msgstr ""
+
+#: language/english/modun/car.php:31
+msgid "Passenger"
+msgstr ""
+
+#: language/english/modun/car.php:32
+msgid "Equipment"
+msgstr ""
+
+#: language/english/modun/car.php:34
+msgid "Price Per"
+msgstr ""
+
+#: language/english/modun/car.php:35
+msgid "Rental Price"
+msgstr ""
+
+#: language/english/modun/car.php:36
+msgid "Rental Total"
+msgstr ""
+
+#: language/english/modun/car.php:38
+msgid "City, Airport or U.S. Zip Code"
+msgstr ""
+
+#: language/english/modun/car.php:39
+msgid "Select"
+msgstr ""
+
+#: language/english/modun/car.php:44
+msgid "E-mail Car Agent"
+msgstr ""
+
+#: language/english/modun/car.php:47
+msgid "Pick Up"
+msgstr ""
+
+#: language/english/modun/car.php:48
+msgid "Drop Off"
+msgstr ""
+
+#: language/english/modun/car.php:53
+msgid "Driver’s Age"
+msgstr ""
+
+#: language/english/modun/car.php:54
+msgid "Driver’s Name"
+msgstr ""
+
+#: language/english/modun/car.php:55
+msgid "Driver info"
+msgstr ""
+
+#: language/english/modun/general.php:2
+msgid "your payment was successful!"
+msgstr ""
+
+#: language/english/modun/general.php:3
+msgid "your order was submitted successfully!"
+msgstr ""
+
+#: language/english/modun/general.php:4
+msgid "Booking details have been sent to: "
+msgstr ""
+
+#: language/english/modun/general.php:5
+msgid "Login/Register on Traveler"
+msgstr ""
+
+#: language/english/modun/general.php:6
+msgid "Login"
+msgstr ""
+
+#: language/english/modun/general.php:7
+msgid "New To Traveler?"
+msgstr ""
+
+#: language/english/modun/general.php:9
+msgid "Booking Submission"
+msgstr ""
+
+#: language/english/modun/general.php:10
+msgid "And we will contact you back"
+msgstr ""
+
+#: language/english/modun/general.php:12
+msgid "(password will be sent to your e-mail)"
+msgstr ""
+
+#: language/english/modun/general.php:13
+msgid "I have read and accept the"
+msgstr ""
+
+#: language/english/modun/general.php:15
+msgid "Submit Booking"
+msgstr ""
+
+#: language/english/modun/general.php:17
+msgid ""
+"Important: You will be redirected to PayPal's website to securely complete "
+"your payment."
+msgstr ""
+
+#: language/english/modun/general.php:18
+msgid "Payment via Paypal"
+msgstr ""
+
+#: language/english/modun/general.php:19
+msgid "Sub Total: "
+msgstr ""
+
+#: language/english/modun/general.php:20
+msgid "Tax:"
+msgstr ""
+
+#: language/english/modun/general.php:21
+msgid "Total Amount:"
+msgstr ""
+
+#: language/english/modun/general.php:22
+msgid "Tag Archives"
+msgstr ""
+
+#: language/english/modun/general.php:24
+msgid "Search ..."
+msgstr ""
+
+#: language/english/modun/general.php:25
+msgid "Edit this page."
+msgstr ""
+
+#: language/english/modun/general.php:26
+msgid "Edit this post."
+msgstr ""
+
+#: language/english/modun/general.php:28
+#: language/english/modun/vc_element.php:3
+msgid "Read More"
+msgstr ""
+
+#: language/english/modun/general.php:30
+msgid "Post Discussion"
+msgstr ""
+
+#: language/english/modun/general.php:31
+msgid "Comment navigation"
+msgstr ""
+
+#: language/english/modun/general.php:32
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: language/english/modun/general.php:33
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: language/english/modun/general.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: language/english/modun/general.php:35
+msgid "Add a comment"
+msgstr "添加评论"
+
+#: language/english/modun/general.php:36
+msgid "Be the first to comment"
+msgstr "添加第一天评论"
+
+#: language/english/modun/general.php:37
+msgid "Post Comment"
+msgstr "评论"
+
+#: language/english/modun/general.php:38
+msgid "Message"
+msgstr "消息"
+
+#: language/english/modun/general.php:39
+msgid "Your email address *"
+msgstr "您的电子信息 *"
+
+#: language/english/modun/general.php:40
+msgid "Name *"
+msgstr ""
+
+#: language/english/modun/general.php:41
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: language/english/modun/general.php:45
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: language/english/modun/general.php:46
+#, php-format
+msgid "Daily Archives : %s"
+msgstr ""
+
+#: language/english/modun/general.php:47
+#, php-format
+msgid "Monthly Archives : %s"
+msgstr ""
+
+#: language/english/modun/general.php:48
+#, php-format
+msgid "Yearly Archives : %s"
+msgstr ""
+
+#: language/english/modun/general.php:49
+msgid "Archives"
+msgstr ""
+
+#: language/english/modun/general.php:50
+msgid "to Homepage"
+msgstr ""
+
+#: language/english/modun/general.php:51
+msgid "Sign In"
+msgstr ""
+
+#: language/english/modun/general.php:52
+msgid "Connect with :"
+msgstr ""
+
+#: language/english/modun/general.php:54
+msgid "Username or email"
+msgstr ""
+
+#: language/english/modun/general.php:55
+msgid "Password"
+msgstr ""
+
+#: language/english/modun/general.php:56
+msgid "my secret password"
+msgstr ""
+
+#: language/english/modun/general.php:57
+msgid "Full Name"
+msgstr ""
+
+#: language/english/modun/general.php:59
+msgid "Sign up for Traveler"
+msgstr ""
+
+#: language/english/modun/general.php:60
+msgid "Hi"
+msgstr ""
+
+#: language/english/modun/general.php:61
+msgid "Thank you for booking with us. Bellow are your booking details:"
+msgstr ""
+
+#: language/english/modun/general.php:63
+msgid "Booking Number :"
+msgstr ""
+
+#: language/english/modun/general.php:64
+msgid "Booking Date :"
+msgstr ""
+
+#: language/english/modun/general.php:65
+msgid "Address :"
+msgstr ""
+
+#: language/english/modun/general.php:66
+msgid "Email :"
+msgstr ""
+
+#: language/english/modun/general.php:67
+msgid "Phone :"
+msgstr ""
+
+#: language/english/modun/general.php:68
+msgid "Room :"
+msgstr ""
+
+#: language/english/modun/general.php:69
+msgid "Room Number :"
+msgstr ""
+
+#: language/english/modun/general.php:70
+msgid "Payment Method :"
+msgstr ""
+
+#: language/english/modun/general.php:71
+msgid "Amount :"
+msgstr ""
+
+#: language/english/modun/general.php:74
+msgid "Price :"
+msgstr ""
+
+#: language/english/modun/general.php:75
+msgid "Check In :"
+msgstr ""
+
+#: language/english/modun/general.php:76
+msgid "Check Out :"
+msgstr ""
+
+#: language/english/modun/general.php:77
+msgid "Website :"
+msgstr ""
+
+#: language/english/modun/general.php:78
+msgid "Activity :"
+msgstr ""
+
+#: language/english/modun/general.php:79
+msgid "Car :"
+msgstr ""
+
+#: language/english/modun/general.php:80
+msgid "Tour :"
+msgstr "包团"
+
+#: language/english/modun/general.php:81
+msgid "hour"
+msgstr ""
+
+#: language/english/modun/general.php:83
+msgid "0 Review"
+msgstr ""
+
+#: language/english/modun/general.php:84
+msgid "1 Review"
+msgstr ""
+
+#: language/english/modun/general.php:85
+msgid "Reviews"
+msgstr ""
+
+#: language/english/modun/general.php:87
+msgid "Was this review helpful?"
+msgstr ""
+
+#: language/english/modun/general.php:88
+msgid "Want to write a review?"
+msgstr ""
+
+#: language/english/modun/general.php:89
+msgid ""
+"Only verified guests can leave a review. After check-out, you\"ll  receive "
+"an invitation to review your stay"
+msgstr ""
+
+#: language/english/modun/general.php:90
+msgid "on this"
+msgstr ""
+
+#: language/english/modun/general.php:93
+msgid "Review are closed"
+msgstr ""
+
+#: language/english/modun/general.php:95
+msgid "Your Rating"
+msgstr ""
+
+#: language/english/modun/general.php:96
+msgid "Review Title"
+msgstr ""
+
+#: language/english/modun/general.php:97
+msgid "Review Content"
+msgstr ""
+
+#: language/english/modun/general.php:98
+msgid "Reviewing are not available"
+msgstr ""
+
+#: language/english/modun/general.php:99
+msgid "You have been post a review for this"
+msgstr ""
+
+#: language/english/modun/general.php:100
+msgid "You must "
+msgstr ""
+
+#: language/english/modun/general.php:101
+msgid "to write review"
+msgstr ""
+
+#: language/english/modun/general.php:102
+msgid "added on"
+msgstr ""
+
+#: language/english/modun/general.php:103
+msgid "remove"
+msgstr ""
+
+#: language/english/modun/general.php:105
+msgid "Add to Wishlist"
+msgstr ""
+
+#: language/english/modun/general.php:106
+msgid "Account Settings"
+msgstr ""
+
+#: language/english/modun/general.php:107
+msgid "No Wishlist"
+msgstr ""
+
+#: language/english/modun/general.php:109
+msgid "Remove to wishlist"
+msgstr ""
+
+#: language/english/modun/general.php:110
+msgid "Add to wishlist"
+msgstr ""
+
+#: language/english/modun/general.php:111
+msgid "Find Your Perfect Trip"
+msgstr ""
+
+#: language/english/modun/general.php:112
+msgid "Show email and phone number to other accounts"
+msgstr ""
+
+#: language/english/modun/general.php:113
+msgid "404"
+msgstr ""
+
+#: language/english/modun/general.php:120
+msgid "Search results : "
+msgstr ""
+
+#: language/english/modun/general.php:121
+msgid "Was this review helpful? "
+msgstr ""
+
+#: language/english/modun/general.php:122
+msgid "Your Booking"
+msgstr ""
+
+#: language/english/modun/general.php:123
+msgid "Coupon Code"
+msgstr ""
+
+#: language/english/modun/general.php:124
+#, php-format
+msgid "Coupon: %s"
+msgstr ""
+
+#: language/english/modun/general.php:125
+msgid "Sorry! Your cart is currently empty."
+msgstr ""
+
+#: language/english/modun/general.php:127
+msgid "Change search"
+msgstr ""
+
+#: language/english/modun/general.php:132
+msgid "it will take a couple of seconds"
+msgstr ""
+
+#: language/english/modun/general.php:133
+#, php-format
+msgid "Looking for %s"
+msgstr ""
+
+#: language/english/modun/general.php:136
+msgid "Information"
+msgstr ""
+
+#: language/english/modun/general.php:140
+msgid "Customer Information"
+msgstr ""
+
+#: language/english/modun/general.php:151
+msgid "Booking Management"
+msgstr ""
+
+#: language/english/modun/general.php:152
+msgid "Search Blog"
+msgstr ""
+
+#: language/english/modun/general.php:153
+msgid "Tags:"
+msgstr ""
+
+#: language/english/modun/general.php:154
+msgid "Ready to publish your first post? <a href=#>Get started here</a>."
+msgstr ""
+
+#: language/english/modun/general.php:155
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: language/english/modun/general.php:156
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: language/english/modun/general.php:157
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: language/english/modun/general.php:158
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: language/english/modun/general.php:159
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: language/english/modun/general.php:160
+msgid "Sign Out"
+msgstr ""
+
+#: language/english/modun/user_create_cruise_cabin.php:7
+msgid "Cruise Cabin Detail"
+msgstr ""
+
+#: language/english/modun/user_create_cruise_cabin.php:8
+msgid "Cabin Type"
+msgstr ""
+
+#: language/english/modun/user_create_cruise_cabin.php:12
+msgid "Max Adults"
+msgstr ""
+
+#: language/english/modun/user_create_cruise_cabin.php:13
+msgid "Max children"
+msgstr ""
+
+#: language/english/modun/user_create_cruise_cabin.php:14
+msgid "Beb size"
+msgstr ""
+
+#: language/english/modun/user_create_cruise_cabin.php:15
+msgid "Cabin size"
+msgstr ""
+
+#: language/english/modun/user_create_rental.php:9
+msgid "Rental Details"
+msgstr ""
+
+#: language/english/modun/user_create_rental.php:11
+msgid "Rental Email"
+msgstr ""
+
+#: language/english/modun/user_create_rental.php:12
+msgid "Rental Website"
+msgstr ""
+
+#: language/english/modun/user_create_rental.php:13
+msgid "Rental Phone"
+msgstr ""
+
+#: language/english/modun/user_create_rental.php:26
+msgid "Rental external booking"
+msgstr ""
+
+#: language/english/modun/vc_element.php:5
+msgid "Explore"
+msgstr ""
+
+#: language/english/modun/vc_element.php:6
+msgid "From"
+msgstr ""
+
+#: language/english/modun/vc_element.php:7
+msgid "Hotels from"
+msgstr ""
+
+#: language/english/modun/vc_element.php:8
+msgid "Rentals from"
+msgstr ""
+
+#: language/english/modun/vc_element.php:9
+msgid "Cars from"
+msgstr ""
+
+#: language/english/modun/vc_element.php:10
+msgid "Tours from"
+msgstr "包团 从"
+
+#: language/english/modun/vc_element.php:11
+msgid "Activities this Week"
+msgstr ""
+
+#: language/english/modun/vc_element.php:15
+msgid "Last Minute Deal"
+msgstr ""
+
+#. Name of the theme
+msgid "Traveler"
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.shinetheme.com/traveler"
+msgstr ""
+
+#. Author of the theme
+msgid "Shinetheme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.shinetheme.com"
+msgstr ""
+
+#. Name of the template
+msgid "Hotel Search Result"
+msgstr "旅馆搜索结果"
+
+#. Name of the template
+msgid "Checkout"
+msgstr "结账"
+
+#. Name of the template
+#. Name of the template
+#: language/english/modun/general.php:119
+msgid "Home"
+msgstr "主页"
+
+#. Name of the template
+msgid "Flight Search Result"
+msgstr "航班搜索结果"
+
+#. Name of the template
+msgid "Member Packages"
+msgstr "会员优惠"
+
+#. Name of the template
+msgid "Reset Password"
+msgstr "重置密码"
+
+#. Name of the template
+msgid "Activity Search Result"
+msgstr "活动搜索结果"
+
+#. Name of the template
+msgid "Member Checkout Success"
+msgstr "会员结账成功"
+
+#. Name of the template
+msgid "Search All Post Type Result"
+msgstr "搜索所有文章"
+
+#. Name of the template
+msgid "User Dashboard"
+msgstr "用户仪表盘"
+
+#. Name of the template
+msgid "Tour Search Result"
+msgstr "包团搜索结果"
+
+#. Name of the template
+msgid "Rental Search Result"
+msgstr "租房搜索结果"
+
+#: language/english/modun/tour.php:4 language/english/modun/activity.php:50
+msgid "Date"
+msgstr "日期"
+
+#: language/english/modun/tour.php:6
+msgid "Search for Tour"
+msgstr "查找包团信息"
+
+#: language/english/modun/tour.php:18
+msgid "Duration Days"
+msgstr "经由时间"
+
+#: language/english/modun/tour.php:19 language/english/modun/user.php:15
+#: language/english/modun/user_create_tour.php:27
+msgid "Maximum number of people"
+msgstr "最多人数"
+
+#: language/english/modun/tour.php:32 language/english/modun/user.php:13
+#: language/english/modun/car.php:27 language/english/modun/general.php:116
+msgid "days"
+msgstr "天数"
+
+#: language/english/modun/tour.php:2 language/english/modun/user.php:19
+msgid "Tour"
+msgstr ""
+"包团\n"
+
+#: language/english/modun/tour.php:3
+msgid "tours"
+msgstr "包团"
+
+#: language/english/modun/tour.php:17
+msgid "Tours information"
+msgstr "包团信息"
