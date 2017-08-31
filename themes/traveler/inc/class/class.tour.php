@@ -1460,7 +1460,7 @@
                 }
 
                 $price_new = TravelHelper::format_money( $price_new ) ;
-                $html .= '<span class="text-lg lh1em item "> ' . $price_new . "</span>";
+                $html .= '<span class="text-lg lh1em item "><h3> ' . $price_new . "</h3></span>";
 
                 return apply_filters( 'st_get_tour_price_html', $html );
             }
