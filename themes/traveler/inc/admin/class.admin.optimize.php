@@ -16,6 +16,7 @@
                 add_action( 'admin_enqueue_scripts', [ $this, 'enqueue_scripts' ] );
                 add_action( 'wp_ajax_st_transient_optimie', [ $this, 'transient_optimie' ] );
                 add_action( 'wp_ajax_st_post_revision_optimize', [ $this, 'post_revision_optimize' ] );
+                add_action( 'wp_ajax_st_post_classify_optimize', [ $this, 'post_classify_optimize' ] );
                 add_action( 'wp_ajax_st_post_draft_optimize', [ $this, 'post_draft_optimize' ] );
                 add_action( 'wp_ajax_st_comment_spam_optimize', [ $this, 'comment_spam_optimize' ] );
                 add_action( 'wp_ajax_st_availability_optimize', [ $this, 'availability_optimize' ] );
@@ -76,6 +77,68 @@
                 echo json_encode( [ 'message' => $this->show_message() ] );
                 die;
             }
+						
+			public function post_classify_optimize() 
+			{
+                $this->clear_message();
+                global $wpdb;
+                $sql = "SELECT id,post_title FROM $wpdb->posts  WHERE post_type = 'location';";
+				$query = $wpdb->get_results($sql, ARRAY_A);
+                $this->clear_message();
+
+				$update_message = 'update meta:';
+				$new_message = 'insert meta:';
+				$relation_message = 'insert rel:';
+				foreach($query as $row) 
+				{
+					$sql = "
+					update $wpdb->postmeta m 
+					inner join $wpdb->posts p on p.id= m.post_id and m.meta_key='multi_location'
+					left join $wpdb->postmeta d on p.id= d.post_id and d.meta_key='classify_done'
+					set m.meta_value = CONCAT(m.meta_value, ',_" . $row['id'] . "_')
+					where  p.post_title like '%" . $row['post_title'] . "%' 
+					and p.post_type='st_tours' 
+					and m.meta_value not like '%" . $row['id'] . "%'
+					and ifnull(d.meta_value,0)<>1;
+					";
+					//$message .= $sql;
+					$count = $wpdb->query( $sql );
+					$update_message .= $row['post_title'] . ' ' . $count . ", ";
+
+					$sql = "
+						insert into $wpdb->postmeta(meta_key, post_id, meta_value) 
+						select 'multi_location',  m.post_id, '_" . $row['id'] . "_' 
+						from $wpdb->posts p inner join $wpdb->postmeta m on p.id=m.post_id and m.meta_key='_thumbnail_id' 
+						where post_title like '%" . $row['post_title'] . "%' and post_type='st_tours' 
+						and id not in (select post_id from $wpdb->postmeta where meta_key='classify_done')
+						and id not in (select post_id from $wpdb->postmeta where meta_key='multi_location');
+					";
+					$count = $wpdb->query( $sql );
+					$new_message .= $row['post_title'] . ' ' . $count . ", ";
+
+					$sql = "insert into wp_st_location_relationships (post_id,location_from,location_to,post_type,location_type)
+					select post_id, ". $row['id'] .", 0, 'st_tours', 'multi_location' 
+					from $wpdb->posts p inner join $wpdb->postmeta m 
+					on p.id = m.post_id and m.meta_key='multi_location'
+					where m.meta_value like '%" . $row['id'] . "%' and p.post_type='st_tours' 
+					and id not in (select post_id from $wpdb->postmeta where meta_key='classify_done')
+					and id not in (select post_id from wp_st_location_relationships where location_from=" . $row['id'] . ");
+					";
+					$count = $wpdb->query( $sql );
+					$rel_message .= $row['post_title'] . ' ' . $count . ", ";
+				}
+				//update tours as classfied'
+				$sql = "
+				insert into $wpdb->postmeta(meta_key, post_id, meta_value) 
+				select 'classify_done',  m.post_id, 1 
+				from $wpdb->posts p inner join $wpdb->postmeta m on p.id=m.post_id and m.meta_key='_thumbnail_id';
+				";
+
+				$message = $update_message . $new_message . $rel_message;
+	            $this->add_message( $message );
+                echo json_encode( [ 'message' => $this->show_message() ] );
+ 				die;
+			}
 
             public function post_draft_get_info()
             {
